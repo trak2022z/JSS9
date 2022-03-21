@@ -3,6 +3,6 @@
 window.addEventListener("load", init);
 // no access to the document here
 function init() {
-console.log("www");
+console.log("ON LOAD");
 }
 })();
